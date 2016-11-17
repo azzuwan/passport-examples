@@ -1,1 +1,1 @@
-# passport-examples
+# Quick Example Of Local Strategy with PassportJS
